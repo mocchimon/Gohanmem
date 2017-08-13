@@ -1,0 +1,126 @@
+#Max Gil
+@0x8266B840 @4 @9999999
+#Item Slot1 x90
+@0x8266C21C @1 @90
+#Item Slot2 x90
+@0x8266C224 @1 @90
+#Item Slot3 x90
+@0x8266C22C @1 @90
+#Item Slot4 x90
+@0x8266C234 @1 @90
+#Item Slot5 x90
+@0x8266C23C @1 @90
+#Item Slot6 x90
+@0x8266C244 @1 @90
+#Item Slot7 x90
+@0x8266C24C @1 @90
+#Item Slot8 x90
+@0x8266C254 @1 @90
+#Item Slot9 x90
+@0x8266C25C @1 @90
+#Item Slot10 x90
+@0x8266C264 @1 @90
+#Mirage SP x20 - Tama
+@0x82636384 @2 @63
+#Mirage SP x20 - 2P Tama
+@0x8263F624 @2 @63
+#Mirage SP x20 - Chocochick
+@0x826367D4 @2 @63
+#Mirage SP x20 - Chocobo
+@0x8263E934 @2 @63
+#Mirage SP x20 - Black Chocochick
+@0x8263C6B4 @2 @83
+#Mirage SP x20 - White Chocobo
+@0x82642594 @2 @63
+#Mirage SP x20 - Sylph
+@0x82636C24 @2 @63
+#Mirage SP x20 - 2P Serafie
+@0x82640764 @2 @63
+#Mirage SP x20 - Mu/Skull Eater
+@0x82637074 @2 @63
+#Mirage SP x20 - Topaz Carbuncle
+@0x826418A4 @2 @63
+#Mirage SP x20 - Goblin
+@0x8263BE14 @2 @63
+#Mirage SP x20 - Red Cap
+@0x826392F4 @2 @63
+#Mirage SP x20 - Mandragora
+@0x826374C4 @2 @63
+#Mirage SP x20 - Malboro
+@0x82644C64 @2 @63
+#Mirage SP x20 - Copper Gnome
+@0x82637D64 @2 @63
+#Mirage SP x20 - Mini Golem
+@0x82637914 @2 @63
+#Mirage SP x20 - Floating Eye
+@0x826381B4 @2 @63
+#Mirage SP x20 - Blood Eye
+@0x8263DC44 @2 @63
+#Mirage SP x20 - Fritt
+@0x82642944 @2 @63
+#Mirage SP x20 - Bablizz/Mishiva
+@0x82638604 @2 @63
+#Mirage SP x20 - Zapt
+@0x82642E34 @2 @63
+#Mirage SP x20 - White Nakk
+@0x8263A884 @2 @63
+#Mirage SP x20 - Fenrir
+@0x82641CF4 @2 @63
+#Mirage SP x20 - Cerberus
+@0x8263D7F4 @2 @63
+#Mirage SP x20 - Babyhemoth
+@0x82638A54 @2 @63
+#Mirage SP x20 - Dark Behemoth
+@0x8263FEC4 @2 @63
+#Mirage SP x20 - Moogle
+@0x82639B94 @2 @63
+#Mirage SP x20 - Cockatrice
+@0x82639FE4 @2 @63
+#Mirage SP x20 - Cocadrille
+@0x826436D4 @2 @63
+#Mirage SP x20 - Dualizard
+@0x82639744 @2 @63
+#Mirage SP x20 - Nidhogg
+@0x8273FA74 @2 @63
+#Mirage SP x20 - Mimic
+@0x8273B124 @2 @63
+#Mirage SP x20 - Quachacho
+@0x8273A434 @2 @63
+#Mirage SP x20 - Ice Bat
+@0x8273ACD4 @2 @63
+#Mirage SP x20 - Mini Flan
+@0x8273B574 @2 @63
+#Mirage SP x20 - Flan
+@0x827443C4 @2 @63
+#Mirage SP x20 - Kaguya Flan
+@0x8273E094 @2 @63
+#Mirage SP x20 - Sharqual/Mega Sharqual
+@0x8273B9C4 @2 @63
+#Mirage SP x20 - Sea Snake
+@0x8273CB04 @2 @63
+#Mirage SP x20 - Flammantoise
+@0x82743B24 @2 @63
+#Mirage SP x20 - Spark Dragon
+@0x8273CF54 @2 @63
+#Mirage SP x20 - Red Dragon
+@0x8273D3A4 @2 @63
+#Mirage SP x20 - Sky Dragon
+@0x82740BB4 @2 @63
+#Mirage SP x20 - Bomb
+@0x82743284 @2 @63
+#Mirage SP x20 - Iris
+@0x82742144 @2 @63
+#Mirage SP x20 - Water Toad
+@0x82744814 @2 @63
+#Mirage SP x20 - Lucky Toad
+@0x82743F74 @2 @63
+#Mirage SP x20 - Magitek Armor P
+@0x827450B4 @2 @63
+#Mirage SP x20 - Crimson Armor
+@0x8273E4E4 @2 @63
+#Mirage SP x20 - Araea
+@0x82740314 @2 @63
+#Mirage SP x20 - Ifrit*
+@0x82741004 @2 @63
+#Mirage SP x20 - Shiva*
+@0x82741454 @2 @63
