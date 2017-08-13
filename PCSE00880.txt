@@ -20,6 +20,20 @@
 @0x8266C25C @1 @90
 #Item Slot10 x90
 @0x8266C264 @1 @90
+#Item Slot11 x90
+@0x8266C26C @1 @90
+#Item Slot12 x90
+@0x8266C274 @1 @90
+#Item Slot13 x90
+@0x8266C27C @1 @90
+#Item Slot14 x90
+@0x8266C284 @1 @90
+#Item Slot15 x90
+@0x8266C28C @1 @90
+
+#Champion Guage
+@0x8266EA24 @4 @999
+
 #Mirage SP x20 - Tama
 @0x82636384 @2 @63
 #Mirage SP x20 - 2P Tama
